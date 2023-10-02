@@ -1,0 +1,5 @@
+- 👋 Hi, I’m James
+- 👀 I’m interested in ... Coding, Guitar, and 90's rock (Including weezer)
+- 🌱 I’m currently learning ... Javascript, Java, And ruby (Probably #C in the future
+- 💞️ I’m looking to collaborate on ... Chat applications and games
+- 📫 How to reach me ... My scratch account is called "SomeOfTheWhat", and my email is jamesrs1112@gmail.com
